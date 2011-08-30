@@ -170,6 +170,9 @@
     <string name="trackball_force_mode_title">Mode LED</string>
     <string name="trackball_force_mode_dialog">Sélection du mode</string>
     <string name="trackball_force_mode_summary">Définir le comportement de la LED</string>
+    <string name="trackball_app_save_title">Enregistrer</string>
+    <string name="trackball_app_save_summary">Enregistre les paramètres pour cette application</string>
+
 
     <string name="trackball_app_mms">Messages</string>
     <string name="trackball_app_dialer">Appels manqués</string>
