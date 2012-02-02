@@ -231,7 +231,7 @@
     <string name="pref_lockscreen_widget_layout_entry_default">Par défaut</string>
     <string name="pref_lockscreen_widget_layout_entry_hidden">Invisible</string>
     <string name="pref_lockscreen_widget_layout_entry_centered">Centré</string>
-    <string name="pref_lockscreen_widget_layout_entry_right">À droite</string>
+    <string name="pref_lockscreen_widget_layout_entry_right">A droite</string>
     <!-- Lockscreen Music Settings -->
     <string name="lockscreen_music_title">Lecture de la musique</string>
     <string name="pref_lockscreen_music_controls_title">Contrôle de la musique</string>
