@@ -534,6 +534,10 @@
     <string name="title_toggle_airplane">Mode avion</string>
     <string name="title_toggle_flashlight">Lampe de poche</string>
     <string name="title_toggle_sleep">Mise en veille</string>
+    <string name="title_toggle_media_play_pause">Média: Lecture/Pause</string>
+    <string name="title_toggle_media_previous">Média: Précédent</string>
+    <string name="title_toggle_media_next">Média: Suivant</string>
+    <string name="title_toggle_wimax">WiMAX</string>
     <string name="title_button_modes">Modes de fonctionnement des boutons</string>
     <string name="pref_brightness_mode_title">Modes de luminosité</string>
     <string name="pref_brightness_mode_summary">Sélection des modes de fonctionnement du bouton Luminosité</string>
@@ -578,12 +582,12 @@
     <string name="light_filter_reset_summary">Les mesures qui dépassent le seuil désactivent le filtre pour une meilleure réaction en extérieur</string>
     <string name="light_filter_interval_title">Intervalle échantillonage</string>
     <string name="light_filter_interval_summary">Une valeur plus basse améliore la réaction mais utilise plus le CPU</string>
-    <string name="light_levels_title">Niveaux de lumière</string>
-    <string name="light_levels_enabled_title">Utiliser valeur personnalisée</string>
+    <string name="light_levels_title">Niveaux d\'éclairage</string>
+    <string name="light_levels_enabled_title">Valeurs personnalisées</string>
     <string name="light_levels_dim_title">Niveau d\'obscurcissement</string>
     <string name="light_levels_dim_summary">Niveau de luminosité utilisé pour l\'obscurcissement</string>
     <string name="light_levels_editor_title">Éditer les autres niveaux...</string>
-    <string name="light_decrease_enabled_title">Diminution luminosité</string>
+    <string name="light_decrease_enabled_title">Eclairage réduit</string>
     <string name="light_decrease_enabled_summary">Autoriser la réduction de l\'éclairage. Utiliser l\'hystérésis pour réduire le scintillement.</string>
     <string name="light_decrease_hysteresis_title">Diminuer l\'hystérésis</string>
     <string name="light_decrease_hysteresis_summary">Les niveaux de mesures se chevaucheront de tant vers le bas.</string>
